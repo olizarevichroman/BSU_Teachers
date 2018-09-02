@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BSU_Teachers/.vs/BSU_Teachers/DesignTimeBuild
+/BSU_Teachers/BSU_Teachers/bin/Debug/netcoreapp2.1
+/BSU_Teachers/.vs/BSU_Teachers/v15/Server/sqlite3
+/BSU_Teachers/.vs
+/BSU_Teachers/BSU_Teachers/obj
