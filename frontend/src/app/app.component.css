@@ -1,0 +1,22 @@
+.layout {
+  margin: auto;
+  position: relative;
+  height: 100%;
+}
+
+#sidebar, #content {
+position: absolute
+}
+
+#content {
+  background: #F4ECCE; /* Цвет фона */
+  left: 150px;
+  width: 100%;
+
+}
+
+#sidebar {
+  background: #C6DD7D; /* Цвет фона */
+  width: 150px;
+  float: right;
+}
